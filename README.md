@@ -96,7 +96,6 @@ Push the branch:
 ```bash
 git push origin feature/MyNewFeature
 ```
-Open a Pull Request on GitHub.
 ---
 📄 License
 This project is licensed under the MIT License.
