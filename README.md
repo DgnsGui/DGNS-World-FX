@@ -39,8 +39,9 @@ Before you begin, make sure you have the following installed:
 ## 🛠️ Installation & Setup
 
 1. **Install Git LFS** (one-time setup):
-   ```bash
+```bash
    git lfs install
+```
 Clone the Repository:
 
 ```bash
