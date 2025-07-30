@@ -1,0 +1,47 @@
+- !<AssetImportMetadata/6334cd34-5924-476a-b4be-2491f962c0bb>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 1408be84-b703-428c-8aac-795df489101b
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 1408be84-b703-428c-8aac-795df489101b
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 1b696c85-dc1e-4951-90fd-d4177e2f0660
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/1b696c85-dc1e-4951-90fd-d4177e2f0660>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 5e34cd56-6da2-472f-ae01-5cdf12e1bd4c
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    pinchButtons: false
+    worldMeshObjects: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    - pinchButtons: !<reference.ScriptComponent[]>
+        []
+      worldMeshObjects: !<reference.SceneObject[]>
+        []
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - '// @input Component.ScriptComponent[] pinchButtons = {} {"hint":"Array of PinchButton components to trigger visibility toggles"}'
+    - '// @input SceneObject[] worldMeshObjects = {} {"hint":"Array of SceneObjects whose visibility will be toggled"}'

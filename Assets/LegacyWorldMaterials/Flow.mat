@@ -1,0 +1,342 @@
+- !<Material/ec1b08e6-0909-4f9c-af03-31654be4ee00>
+  PackagePath: ""
+  PassesInfo:
+    - !<own> 6d0c85d2-d382-48bf-af37-f378ccaaddd6
+- !<PassInfo/6d0c85d2-d382-48bf-af37-f378ccaaddd6>
+  CachedProperties:
+    - Detail:
+        typeIdx: 1
+        value: 1.000000
+    - Port_CoordsIn_N001:
+        typeIdx: 3
+        value: {x: 0.000000, y: 0.000000}
+    - Port_Depth_N004:
+        typeIdx: 1
+        value: 1.000000
+    - Port_FinalColor1_N004:
+        typeIdx: 5
+        value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    - Port_FinalColor2_N004:
+        typeIdx: 5
+        value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    - Port_FinalColor3_N004:
+        typeIdx: 5
+        value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    - Port_GSplatPointSize_N004:
+        typeIdx: 1
+        value: 0.000000
+    - Port_GSplatRotation_N004:
+        typeIdx: 5
+        value: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
+    - Port_GSplatScale_N004:
+        typeIdx: 4
+        value: {x: 0.000000, y: 0.000000, z: 0.000000}
+    - Port_Index_N029:
+        typeIdx: 1
+        value: 0.000000
+    - Port_Normal_N003:
+        typeIdx: 4
+        value: {x: 0.000000, y: 1.000000, z: 0.000000}
+    - Port_Position_N003:
+        typeIdx: 4
+        value: {x: 0.000000, y: 0.000000, z: 0.000000}
+    - Port_RayDirection_N004:
+        typeIdx: 4
+        value: {x: 0.000000, y: 1.000000, z: 0.000000}
+    - Port_RayOrigin_N004:
+        typeIdx: 4
+        value: {x: 0.000000, y: 0.000000, z: 0.000000}
+    - Port_Scale_N001:
+        typeIdx: 3
+        value: {x: 1.000000, y: 1.000000}
+    - Port_Scale_N003:
+        typeIdx: 4
+        value: {x: 1.000000, y: 1.000000, z: 1.000000}
+    - Port_Value_N001:
+        typeIdx: 4
+        value: {x: 3.000000, y: 3.000000, z: 3.000000}
+    - Port_Value_N002:
+        typeIdx: 3
+        value: {x: 0.000000, y: 0.000000}
+    - Port_WorldNormal_N004:
+        typeIdx: 4
+        value: {x: 0.000000, y: 1.000000, z: 0.000000}
+    - Port_WorldPosition_N004:
+        typeIdx: 4
+        value: {x: 0.000000, y: 0.000000, z: 0.000000}
+    - Port_WorldTangent_N004:
+        typeIdx: 4
+        value: {x: 0.000000, y: 0.000000, z: 1.000000}
+    - Port_animation_speed_N000:
+        typeIdx: 1
+        value: 0.000000
+    - Port_blob_movement_N000:
+        typeIdx: 1
+        value: 0.000000
+    - Port_blob_size_N000:
+        typeIdx: 1
+        value: 0.000000
+    - Port_brightness_N000:
+        typeIdx: 1
+        value: 0.000000
+    - Port_color_intensity_N000:
+        typeIdx: 1
+        value: 0.000000
+    - Port_color_saturation_N000:
+        typeIdx: 1
+        value: 0.000000
+    - Port_color_shift_speed_N000:
+        typeIdx: 1
+        value: 0.000000
+    - Port_contrast_N000:
+        typeIdx: 1
+        value: 0.000000
+    - Port_distortion_strength_N000:
+        typeIdx: 1
+        value: 0.000000
+    - Port_energy_intensity_N000:
+        typeIdx: 1
+        value: 0.000000
+    - Port_fade_radius_N000:
+        typeIdx: 1
+        value: 0.000000
+    - Port_flow_direction_N000:
+        typeIdx: 1
+        value: 0.000000
+    - Port_fractal_complexity_N000:
+        typeIdx: 1
+        value: 0.000000
+    - Port_fractal_detail_N000:
+        typeIdx: 1
+        value: 0.000000
+    - Port_fractal_zoom_N000:
+        typeIdx: 1
+        value: 0.000000
+    - Port_kaleido_layers_N000:
+        typeIdx: 1
+        value: 0.000000
+    - Port_kaleido_segments_N000:
+        typeIdx: 1
+        value: 0.000000
+    - Port_kaleido_zoom_speed_N000:
+        typeIdx: 1
+        value: 0.000000
+    - Port_liquid_color_base_N000:
+        typeIdx: 4
+        value: {x: 0.000000, y: 0.000000, z: 0.000000}
+    - Port_liquid_color_highlight_N000:
+        typeIdx: 4
+        value: {x: 0.000000, y: 0.000000, z: 0.000000}
+    - Port_metallic_factor_N000:
+        typeIdx: 1
+        value: 0.000000
+    - Port_opacity_modulator_N000:
+        typeIdx: 1
+        value: 0.000000
+    - Port_organic_complexity_N000:
+        typeIdx: 1
+        value: 0.000000
+    - Port_pattern_scale_N000:
+        typeIdx: 1
+        value: 0.000000
+    - Port_ripple_density_N000:
+        typeIdx: 1
+        value: 0.000000
+    - Port_rotation_speed_N000:
+        typeIdx: 1
+        value: 0.000000
+    - Port_show_ceiling_N000:
+        typeIdx: 1
+        value: 0.000000
+    - Port_show_floor_N000:
+        typeIdx: 1
+        value: 0.000000
+    - Port_show_walls_N000:
+        typeIdx: 1
+        value: 0.000000
+    - Port_spiral_intensity_N000:
+        typeIdx: 1
+        value: 0.000000
+    - Port_surface_tension_N000:
+        typeIdx: 1
+        value: 0.000000
+    - Port_tile_repeats_N000:
+        typeIdx: 1
+        value: 0.000000
+    - Port_tile_spacing_N000:
+        typeIdx: 1
+        value: 0.000000
+    - Port_wave_amplitude_N000:
+        typeIdx: 1
+        value: 0.000000
+    - Port_wave_frequency_N000:
+        typeIdx: 1
+        value: 0.000000
+    - Port_wave_speed_N000:
+        typeIdx: 1
+        value: 0.000000
+    - Port_worldPos_N000:
+        typeIdx: 4
+        value: {x: 0.000000, y: 0.000000, z: 0.000000}
+    - Translation_x:
+        typeIdx: 1
+        value: 1.000000
+    - Tweak_24:
+        typeIdx: 1
+        value: 10.000000
+    - Tweak_N1:
+        typeIdx: 1
+        value: 1.000000
+    - Tweak_N11:
+        typeIdx: 1
+        value: 1.000000
+    - Tweak_N19:
+        typeIdx: 1
+        value: 1.000000
+    - Tweak_N21:
+        typeIdx: 1
+        value: 1.000000
+    - Tweak_N22:
+        typeIdx: 1
+        value: 1.000000
+    - Tweak_N26:
+        typeIdx: 4
+        value: {x: 0.600000, y: 1.000000, z: 0.000000}
+    - Tweak_N28:
+        typeIdx: 1
+        value: 1.000000
+    - Tweak_N8:
+        typeIdx: 1
+        value: 1.000000
+    - a:
+        typeIdx: 1
+        value: 1.000000
+    - b:
+        typeIdx: 1
+        value: 1.000000
+    - contrast:
+        typeIdx: 1
+        value: 1.000000
+    - dz:
+        typeIdx: 1
+        value: 1.000000
+    - fade_radius:
+        typeIdx: 1
+        value: 1.000000
+    - mainColor:
+        typeIdx: 5
+        value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    - pattern_scale:
+        typeIdx: 1
+        value: 3.000000
+    - rotation_y:
+        typeIdx: 1
+        value: 1.000000
+    - segments:
+        typeIdx: 1
+        value: 6.000000
+    - show_all:
+        typeIdx: 1
+        value: 0.000000
+    - spiral_intensity:
+        typeIdx: 1
+        value: 4.000000
+    - zoom_amplitude:
+        typeIdx: 1
+        value: 10.000000
+  DepthWrite: true
+  DepthTest: true
+  DepthFunction: LessEqual
+  TwoSided: false
+  ColorMask: {x: true, y: true, z: true, w: true}
+  CullMode: Back
+  PolygonOffset: {x: 0.000000, y: 0.000000}
+  FrustumCulling: Auto
+  FrustumCullPad: 0.000000
+  InstanceCount: 1
+  Defines:
+    []
+  BlendMode: Disabled
+  Properties:
+    Port_Center_N001:
+      typeIdx: 3
+      value: {x: 0.500000, y: 0.500000}
+    Port_Offset_N003:
+      typeIdx: 4
+      value: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Port_Sharpness_N003:
+      typeIdx: 1
+      value: 1.000000
+    Port_energy_color_N000:
+      typeIdx: 4
+      value: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Port_show_all_N000:
+      typeIdx: 1
+      value: 0.000000
+    PreviewEnabled:
+      typeIdx: 0
+      value: 0
+    Tweak_N10:
+      typeIdx: 1
+      value: 4.000000
+    Tweak_N12:
+      typeIdx: 1
+      value: 1.000000
+    Tweak_N13:
+      typeIdx: 1
+      value: 1.000000
+    Tweak_N14:
+      typeIdx: 1
+      value: 1.000000
+    Tweak_N15:
+      typeIdx: 1
+      value: 5.000000
+    Tweak_N16:
+      typeIdx: 1
+      value: 1.000000
+    Tweak_N17:
+      typeIdx: 1
+      value: 5.000000
+    Tweak_N18:
+      typeIdx: 1
+      value: 1.000000
+    Tweak_N20:
+      typeIdx: 1
+      value: 8.000000
+    Tweak_N25:
+      typeIdx: 4
+      value: {x: 0.345098, y: 0.486275, z: 1.000000}
+    Tweak_N29:
+      typeIdx: 4
+      value: {x: 5.000000, y: 5.000000, z: 5.000000}
+    Tweak_N9:
+      typeIdx: 1
+      value: 6.000000
+    fr:
+      typeIdx: 1
+      value: 1.000000
+    primary_color:
+      typeIdx: 4
+      value: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation_x:
+      typeIdx: 1
+      value: 1.000000
+    show_ceiling:
+      typeIdx: 1
+      value: 1.000000
+    show_floor:
+      typeIdx: 1
+      value: 1.000000
+    show_walls:
+      typeIdx: 1
+      value: 0.000000
+    translation_x:
+      typeIdx: 1
+      value: 1.000000
+    translation_y:
+      typeIdx: 1
+      value: 1.000000
+    wac:
+      typeIdx: 1
+      value: 1.000000
+  Pass: !<reference> fa768a25-243e-4e27-bc55-a51bf280ec80

@@ -1,0 +1,50 @@
+- !<AssetImportMetadata/6dea5fe4-c619-4850-ab76-012d252eca64>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 0369e323-e4af-4328-aae2-a88b2d7486a8
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 0369e323-e4af-4328-aae2-a88b2d7486a8
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 7904868a-2727-4137-9a21-f3c5e75f171b
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/7904868a-2727-4137-9a21-f3c5e75f171b>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 477c274c-6afb-497f-bb29-58d80452715a
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    acknowledgeButton: false
+    acknowledgeChangelogButton: false
+    changelogButton: false
+    containerFrameChangelog: false
+    containerFrameUI: false
+    welcomePrefab: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    - welcomePrefab: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      acknowledgeButton: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      changelogButton: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      containerFrameUI: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      containerFrameChangelog: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      acknowledgeChangelogButton: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}

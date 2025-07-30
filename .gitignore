@@ -1,0 +1,9 @@
+# Fichiers et dossiers générés par Lens Studio
+/Cache/
+/Logs/
+/Temp/
+/Library/
+
+# Fichiers de préférences utilisateur
+/PluginsUserPreferences/
+*.userprefs

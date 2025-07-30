@@ -1,0 +1,79 @@
+- !<AssetImportMetadata/4f32bb56-a7af-49dd-b7ac-51339b0048c5>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 9d3c9cbf-c943-4859-ae90-09225aa465f1
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 9d3c9cbf-c943-4859-ae90-09225aa465f1
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> dac3306e-966b-4c76-8831-1fe532a3e1ab
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/dac3306e-966b-4c76-8831-1fe532a3e1ab>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: f1545564-a666-4d20-92a7-37a31d5ac5a8
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    ceilingOffText: false
+    ceilingOnText: false
+    ceilingParameterName: false
+    ceilingToggleButton: false
+    controlledMaterials: false
+    floorOffText: false
+    floorOnText: false
+    floorParameterName: false
+    floorToggleButton: false
+    wallsOffText: false
+    wallsOnText: false
+    wallsParameterName: false
+    wallsToggleButton: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    - floorToggleButton: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      wallsToggleButton: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      ceilingToggleButton: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      floorOnText: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      floorOffText: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      wallsOnText: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      wallsOffText: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      ceilingOnText: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      ceilingOffText: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      controlledMaterials: !<reference.Material[]>
+        []
+      floorParameterName: show_floor
+      wallsParameterName: show_walls
+      ceilingParameterName: show_ceiling
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - '// @input Component.ScriptComponent floorToggleButton {"hint":"PinchButton to toggle floor surface"}'
+    - '// @input Component.ScriptComponent wallsToggleButton {"hint":"PinchButton to toggle walls surface"}'
+    - '// @input Component.ScriptComponent ceilingToggleButton {"hint":"PinchButton to toggle ceiling surface"}'
+    - '// @input SceneObject floorOnText {"hint":"3D Text object for \"ON\" state of the floor button"}'
+    - '// @input SceneObject floorOffText {"hint":"3D Text object for \"OFF\" state of the floor button"}'
+    - '// @input SceneObject wallsOnText {"hint":"3D Text object for \"ON\" state of the walls button"}'
+    - '// @input SceneObject wallsOffText {"hint":"3D Text object for \"OFF\" state of the walls button"}'
+    - '// @input SceneObject ceilingOnText {"hint":"3D Text object for \"ON\" state of the ceiling button"}'
+    - '// @input SceneObject ceilingOffText {"hint":"3D Text object for \"OFF\" state of the ceiling button"}'
+    - '// @input Asset.Material[] controlledMaterials = {} {"hint":"Direct material references to control"}'
+    - '// @input string floorParameterName = "show_floor" {"hint":"Float parameter name for floor control in shaders"}'
+    - '// @input string wallsParameterName = "show_walls" {"hint":"Float parameter name for walls control in shaders"}'
+    - '// @input string ceilingParameterName = "show_ceiling" {"hint":"Float parameter name for ceiling control in shaders"}'

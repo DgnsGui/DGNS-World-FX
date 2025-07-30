@@ -1,0 +1,93 @@
+- !<AssetImportMetadata/9daafea0-a0a1-4a62-90e7-d22982dbe6af>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 94f96151-3d6f-495a-9517-cef1780000fa
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 94f96151-3d6f-495a-9517-cef1780000fa
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 82f732a0-5a43-43e6-b4f2-107569829d62
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/82f732a0-5a43-43e6-b4f2-107569829d62>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 1e553f13-fba1-4757-be58-c95ee655e362
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    artistNameText: false
+    audioComponent: false
+    localTrackArtists: false
+    localTrackTitles: false
+    localTracks: false
+    loopPlayback: false
+    nextTrackButton: false
+    pauseIcon: false
+    playIcon: false
+    playPauseButton: false
+    prevTrackButton: false
+    remoteTrackArtists: false
+    remoteTrackTitles: false
+    remoteTracks: false
+    trackTitleText: false
+    volume: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    - localTracks: !<reference.AudioTrackAsset[]>
+        []
+      localTrackTitles: !<string[]>
+        []
+      localTrackArtists: !<string[]>
+        []
+      remoteTracks: !<reference.RemoteReferenceAsset[]>
+        []
+      remoteTrackTitles: !<string[]>
+        []
+      remoteTrackArtists: !<string[]>
+        []
+      audioComponent: !<reference.AudioComponent> 00000000-0000-0000-0000-000000000000
+      playPauseButton: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      nextTrackButton: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      prevTrackButton: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      playIcon: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      pauseIcon: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      trackTitleText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      artistNameText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      loopPlayback: true
+      volume: !<float> 1.000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - "// @input Asset.AudioTrackAsset[] localTracks"
+    - "// @input string[] localTrackTitles"
+    - "// @input string[] localTrackArtists"
+    - "// @input Asset.RemoteReferenceAsset[] remoteTracks"
+    - "// @input string[] remoteTrackTitles"
+    - "// @input string[] remoteTrackArtists"
+    - // @input Component.AudioComponent audioComponent
+    - // @input Component.ScriptComponent playPauseButton
+    - // @input Component.ScriptComponent nextTrackButton
+    - // @input Component.ScriptComponent prevTrackButton
+    - // @input SceneObject playIcon
+    - // @input SceneObject pauseIcon
+    - // @input Component.Text trackTitleText
+    - // @input Component.Text artistNameText
+    - // @input bool loopPlayback = true
+    - // @input number volume = 1

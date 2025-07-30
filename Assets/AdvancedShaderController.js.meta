@@ -1,0 +1,149 @@
+- !<AssetImportMetadata/d21a5700-4636-49d3-9202-e40fdc49e9b1>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 981c6459-1b9d-40f8-9c0e-c1fa693a889e
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 981c6459-1b9d-40f8-9c0e-c1fa693a889e
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 2d3bc99a-1a46-49aa-bd62-3c3584438211
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/2d3bc99a-1a46-49aa-bd62-3c3584438211>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: a87f7e00-c3b0-46dc-88ea-567fc24e5d25
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    controlRotationX: false
+    controlRotationY: false
+    controlRotationZ: false
+    controlScale: false
+    controlX: false
+    controlY: false
+    controlZ: false
+    floatParameterNameRotationX: false
+    floatParameterNameRotationY: false
+    floatParameterNameRotationZ: false
+    floatParameterNameScale: false
+    floatParameterNameX: false
+    floatParameterNameY: false
+    floatParameterNameZ: false
+    materials: false
+    maxRotationX: false
+    maxRotationY: false
+    maxRotationZ: false
+    maxScale: false
+    maxValueRotationX: false
+    maxValueRotationY: false
+    maxValueRotationZ: false
+    maxValueScale: false
+    maxValueX: false
+    maxValueY: false
+    maxValueZ: false
+    maxX: false
+    maxY: false
+    maxZ: false
+    minRotationX: false
+    minRotationY: false
+    minRotationZ: false
+    minScale: false
+    minValueRotationX: false
+    minValueRotationY: false
+    minValueRotationZ: false
+    minValueScale: false
+    minValueX: false
+    minValueY: false
+    minValueZ: false
+    minX: false
+    minY: false
+    minZ: false
+    sensitivity: false
+    sensitivityRotationX: false
+    sensitivityRotationY: false
+    sensitivityRotationZ: false
+    sensitivityScale: false
+    sensitivityX: false
+    sensitivityY: false
+    sensitivityZ: false
+    targetObject: false
+    useLocalPosition: false
+    useLocalRotation: false
+    useLocalScale: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    - targetObject: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      materials: !<reference.Material[]>
+        []
+      useLocalPosition: true
+      useLocalRotation: true
+      useLocalScale: true
+      sensitivity: !<float> 1.000000
+      controlX: true
+      floatParameterNameX: repetition
+      sensitivityX: !<float> 1.000000
+      minX: !<float> -10.000000
+      maxX: !<float> 10.000000
+      minValueX: !<float> 1.000000
+      maxValueX: !<float> 20.000000
+      controlY: false
+      floatParameterNameY: intensity
+      sensitivityY: !<float> 1.000000
+      minY: !<float> -10.000000
+      maxY: !<float> 10.000000
+      minValueY: !<float> 0.000000
+      maxValueY: !<float> 1.000000
+      controlZ: false
+      floatParameterNameZ: zoom
+      sensitivityZ: !<float> 1.000000
+      minZ: !<float> -10.000000
+      maxZ: !<float> 10.000000
+      minValueZ: !<float> 1.000000
+      maxValueZ: !<float> 5.000000
+      controlRotationX: false
+      floatParameterNameRotationX: rotation_x
+      sensitivityRotationX: !<float> 1.000000
+      minRotationX: !<float> -180.000000
+      maxRotationX: !<float> 180.000000
+      minValueRotationX: !<float> 0.000000
+      maxValueRotationX: !<float> 1.000000
+      controlRotationY: false
+      floatParameterNameRotationY: rotation_y
+      sensitivityRotationY: !<float> 1.000000
+      minRotationY: !<float> -180.000000
+      maxRotationY: !<float> 180.000000
+      minValueRotationY: !<float> 0.000000
+      maxValueRotationY: !<float> 1.000000
+      controlRotationZ: false
+      floatParameterNameRotationZ: rotation_z
+      sensitivityRotationZ: !<float> 1.000000
+      minRotationZ: !<float> -180.000000
+      maxRotationZ: !<float> 180.000000
+      minValueRotationZ: !<float> 0.000000
+      maxValueRotationZ: !<float> 1.000000
+      controlScale: false
+      floatParameterNameScale: scale_modifier
+      sensitivityScale: !<float> 1.000000
+      minScale: 0.100000
+      maxScale: !<float> 5.000000
+      minValueScale: 0.100000
+      maxValueScale: !<float> 10.000000
+  ScriptTypes:
+    -
+      {}

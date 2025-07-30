@@ -1,0 +1,63 @@
+- !<AssetImportMetadata/c12c81bc-cfd6-4c83-bba6-20cc90d0c45d>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 5d654fe9-153a-41ba-8de8-9ea68321b7ba
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 5d654fe9-153a-41ba-8de8-9ea68321b7ba
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> b5b19a1c-3d9f-4aa5-973f-54d6a8eadf04
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/b5b19a1c-3d9f-4aa5-973f-54d6a8eadf04>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: c3cac431-87f1-4176-a5e3-e1b44d8d8687
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    acknowledgeButton: false
+    infoButton: false
+    nextButton: false
+    page0: false
+    page1: false
+    pageNumberText: false
+    prevButton: false
+    tutorialContainer: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    - nextButton: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      prevButton: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      infoButton: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      acknowledgeButton: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      tutorialContainer: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      pageNumberText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      page0: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      page1: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input Component.ScriptComponent nextButton
+    - // @input Component.ScriptComponent prevButton
+    - // @input Component.ScriptComponent infoButton
+    - // @input Component.ScriptComponent acknowledgeButton
+    - // @input SceneObject tutorialContainer
+    - // @input Component.Text pageNumberText
+    - // @input SceneObject page0
+    - // @input SceneObject page1

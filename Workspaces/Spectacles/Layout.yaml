@@ -1,0 +1,74 @@
+dock:
+  isLocked: false
+  main:
+    items:
+      - items:
+          - items:
+              - persistentName: Snap.Plugin.Gui.SceneHierarchyEditor
+                Uuid: b48fec1e-00b4-4b5e-b769-9971f07d8949
+            type: section
+            current: 0
+          - items:
+              - persistentName: Snap.Plugin.Gui.AssetBrowser
+                Uuid: 3925d799-63b7-4405-b1f9-151ed7059d7a
+            type: section
+            current: 0
+        sizes:
+          - 467
+          - 467
+        type: splitter
+        orientation: vertical
+      - items:
+          - items:
+              - persistentName: Snap.Plugin.Gui.SceneEditor
+                Uuid: a14d85d7-9a15-42a6-913e-3f24dea267c2
+              - persistentName: Snap.Plugin.Gui.Graph.Editor
+                Uuid: 5c7b5067-e989-4fb2-a4c7-048334fe031a
+              - persistentName: Snap.Plugin.Gui.ScriptEditorPanel
+                Uuid: 2c126fee-2d90-43e3-b16e-3683d9ec0457
+              - persistentName: Snap.Plugin.Gui.ScriptEditorPanel
+                Uuid: 7251ce17-7a50-4744-91b7-2fad2c492e67
+              - persistentName: Snap.Plugin.Gui.SceneEditor
+                Uuid: 7dcdcd9f-ee32-4515-9c08-70c7dac0b6e9
+            type: section
+            current: 0
+          - items:
+              - persistentName: Snap.Plugin.Gui.LoggerPanel
+                Uuid: 81de965d-0c94-4d28-82cf-901740003a1f
+            type: section
+            current: 0
+        sizes:
+          - 585
+          - 349
+        type: splitter
+        orientation: vertical
+      - items:
+          - items:
+              - persistentName: Snap.Plugin.Gui.InspectorPanel
+                Uuid: 780d9164-e681-4de1-b586-5213ed5523b9
+            type: section
+            current: 0
+          - items:
+              - persistentName: Snap.Plugin.Gui.AssetPreviewPanel
+                Uuid: 731666ce-f891-4f1c-9742-23858fd96a6c
+            type: section
+            current: 0
+        sizes:
+          - 836
+          - 98
+        type: splitter
+        orientation: vertical
+      - items:
+          - persistentName: Snap.Plugin.Gui.PreviewPanel
+            Uuid: 52fc2a95-41a3-427b-a138-1e00eb1c405e
+          - persistentName: Snap.Plugin.AssistantAI.Panel
+            Uuid: df91b2cf-37e1-401c-83fc-3d9f83343e71
+        type: section
+        current: 0
+    sizes:
+      - 358
+      - 620
+      - 506
+      - 419
+    type: splitter
+    orientation: horizontal

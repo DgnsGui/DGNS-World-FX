@@ -1,0 +1,16 @@
+- !<AssetImportMetadata/f9124b83-3540-4a7d-a821-b452cc057297>
+  ImportedAssetIds:
+    RemoteReferenceAsset: !<reference> 4277f472-5dc6-45ea-b333-6759bb9d0333
+  ImporterName: RemoteReferenceAssetImporter
+  PrimaryAsset: !<reference> 4277f472-5dc6-45ea-b333-6759bb9d0333
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000

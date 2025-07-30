@@ -1,0 +1,101 @@
+- !<AssetImportMetadata/2c791532-9ad1-457e-a9c9-9f8f1cd9bf35>
+  ImportedAssetIds:
+    ObjectPrefab: !<reference> 59cca3a0-9096-43f6-ad8e-d61d662476f4
+  ImporterName: ObjectPrefabImporter
+  PrimaryAsset: !<reference> 59cca3a0-9096-43f6-ad8e-d61d662476f4
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    ObjectPrefab: !<own> 51eb6a3d-81e3-4c18-b27e-4b3c44310055
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/1f84747f-f0dc-4589-bae3-7dfa0e33019a>
+  PrefabRemaps:
+    []
+  Name: Earth
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 3ca909fe-12cd-4c5c-90c9-a918e2954c1d
+- !<RenderMeshVisual/3ca909fe-12cd-4c5c-90c9-a918e2954c1d>
+  PrefabRemaps:
+    []
+  Name: component_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 70f59604-aca5-42e6-a0cc-5d97f480dd80
+  Mesh: !<reference> 08059377-0244-4bb5-b614-c5dc168049e6
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<ObjectPrefabAssetData/51eb6a3d-81e3-4c18-b27e-4b3c44310055>
+  SourceRemaps:
+    - 098bbb60-1fbf-45e0-a9e3-1124c624c1f4: 9b77d5c9-305f-489b-8502-9af1ac466fdf
+    - 59cca3a0-9096-43f6-ad8e-d61d662476f4: bbf92928-a065-4097-a834-7120a1f3bf4a
+    - 5afe7a39-11be-43f4-a1c4-8a877d2a9e30: 1f84747f-f0dc-4589-bae3-7dfa0e33019a
+    - 9ad36b93-2525-4243-bebc-687b466efea4: 3ca909fe-12cd-4c5c-90c9-a918e2954c1d
+    - fe99fbe4-ce5b-4384-80cb-3d3cb2944a88: 73cb0d9b-cc29-427c-a34a-d183d9582fc7
+  SourceState: !<own> bbf92928-a065-4097-a834-7120a1f3bf4a
+- !<SceneObject/73cb0d9b-cc29-427c-a34a-d183d9582fc7>
+  PrefabRemaps:
+    []
+  Name: Earth
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 1f84747f-f0dc-4589-bae3-7dfa0e33019a
+  Components:
+    - !<own> 9b77d5c9-305f-489b-8502-9af1ac466fdf
+- !<AnimationPlayer/9b77d5c9-305f-489b-8502-9af1ac466fdf>
+  PrefabRemaps:
+    []
+  Name: component_1
+  Enabled: true
+  Autoplay: true
+  ClipRangeType: Frames
+  AnimationClips:
+    - !<AnimationClip>
+      AnimationAsset: !<reference> 85306eea-c803-4ee4-93e1-97232f5a54af
+      Name: BaseLayer
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 0.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+- !<ObjectPrefab/bbf92928-a065-4097-a834-7120a1f3bf4a>
+  PackagePath: ""
+  objects:
+    - !<own> 73cb0d9b-cc29-427c-a34a-d183d9582fc7
+  LazyLoading: false
+  RetainAssets: true
