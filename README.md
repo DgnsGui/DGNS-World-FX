@@ -9,7 +9,9 @@
   <em>A powerful AR Lens for Spectacles24 that projects customizable GLSL shaders onto the real-world environment, with real-time controls and an integrated music player.</em>
 </p>
 
-![ezgif-5f013fb7547119](https://github.com/user-attachments/assets/c7addd51-6d8b-4256-bea1-762c554f133a)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c7addd51-6d8b-4256-bea1-762c554f133a" alt="Project Preview GIF" width="600"/>
+</p>
 
 
 ---
