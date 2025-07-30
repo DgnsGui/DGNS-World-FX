@@ -9,9 +9,8 @@
   <em>A powerful AR Lens for Spectacles24 that projects customizable GLSL shaders onto the real-world environment, with real-time controls and an integrated music player.</em>
 </p>
 
-<p align="center">
-  <img src="[https://i.imgur.com/lHMf3D8.gif](https://i.imgur.com/Nw4G6sP.gif)" alt="DGNS World FX Demo" width="700" height="700" />
-</p>
+![ezgif-5f013fb7547119](https://github.com/user-attachments/assets/c7addd51-6d8b-4256-bea1-762c554f133a)
+
 
 ---
 
