@@ -6,7 +6,7 @@
 <h1 align="center">DGNS World FX - A Lens for Spectacles</h1>
 
 <p align="center">
-  <em>A powerful AR Lens for Spectacles24 that projects customizable GLSL shaders onto the real-world environment, with real-time controls and an integrated music player.</em>
+  <em>A powerful AR Lens for Spectacles (2021) that projects customizable GLSL shaders onto the real-world environment, with real-time controls and an integrated music player.</em>
 </p>
 
 <p align="center">
@@ -39,3 +39,61 @@ Before you begin, make sure you have the following installed:
 1. **Install Git LFS** (one-time setup):
    ```bash
    git lfs install
+Clone the Repository:
+
+bash
+Copier
+Modifier
+git clone https://github.com/YourUsername/DGNS-World-FX-Spectacles-Lens.git
+Open the Project:
+
+Navigate to the cloned directory.
+
+Open the file DGNS World FX V2 Backup 2.lsproj with Lens Studio.
+
+Deploy to Spectacles:
+
+Pair your Spectacles.
+
+Use the Send to Snapchat panel in Lens Studio to push the Lens to your device.
+
+📂 Codebase Overview
+File	Description
+PageManager.ts	Manages navigation between UI pages.
+WorldEffectsManager2.ts	Activates/deactivates shader effects, ensuring only one runs at a time.
+SimpleMusicPlayer.ts	Controls audio playback and UI updates for the music player.
+Control Surfaces 2.ts	Toggles shader surfaces (floor, walls, ceiling).
+AdvancedShaderController.js	Links 3D object transform to shader parameters dynamically.
+ResetButton.js	Resets object position to its initial state.
+WelcomePrefab.js	Handles the welcome screen and changelog display.
+
+🤝 Contribution Guidelines
+Contributions are welcome! To contribute:
+
+Fork the repository.
+
+Create a feature branch:
+
+bash
+Copier
+Modifier
+git checkout -b feature/MyNewFeature
+Commit your changes:
+
+bash
+Copier
+Modifier
+git commit -m "Add MyNewFeature"
+Push the branch:
+
+bash
+Copier
+Modifier
+git push origin feature/MyNewFeature
+Open a Pull Request on GitHub.
+
+📄 License
+This project is licensed under the MIT License.
+See the LICENSE file for details.
+
+<p align="center"> Developed with ❤️ by <strong>Monsieur Dagens</strong> – Pioneering AR experiences for the next generation of Spectacles. </p> ```
