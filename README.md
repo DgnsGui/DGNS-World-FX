@@ -45,18 +45,16 @@ Clone the Repository:
 bash
 Copier
 Modifier
-git clone https://github.com/YourUsername/DGNS-World-FX-Spectacles-Lens.git
+git clone https://github.com/DGNSGui/DGNS-World-FX-Spectacles-Lens.git
 Open the Project:
 
 Navigate to the cloned directory.
 
 Open the file DGNS World FX V2 Backup 2.lsproj with Lens Studio.
 
+
 Deploy to Spectacles:
 
-Pair your Spectacles.
-
-Use the Send to Snapchat panel in Lens Studio to push the Lens to your device.
 
 📂 Codebase Overview
 File	Description
