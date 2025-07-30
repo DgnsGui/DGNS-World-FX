@@ -1,7 +1,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
 ![Platform](https://img.shields.io/badge/Platform-Snap_Spectacles_2021-blue.svg)
-![Tech](https://img.shields.io/badge/Powered_by-Lens_Studio_4.x-purple.svg)
+![Tech](https://img.shields.io/badge/Powered_by-Lens_Studio_5.x-yellow.svg)
 
 <h1 align="center">DGNS World FX - A Lens for Spectacles</h1>
 
