@@ -1,7 +1,8 @@
-DGNS World FX - A Lens for Spectacles
 ![alt text](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+DGNS World FX - A Lens for Spectacles
 A powerful Lens for Spectacles (2021) that projects customizable GLSL shaders onto the real-world environment, complete with real-time controls and an integrated music player.
-![alt text](https://s14.gifyu.com/images/bN2EJ.gif)
+https://s14.gifyu.com/images/bN2EJ.gif
 
 🚀 Features
 Live Shader Projection: Applies complex GLSL shaders onto real-world surfaces like floors, walls, and ceilings.
