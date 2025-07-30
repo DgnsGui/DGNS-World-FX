@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/lHMf3D8.gif" alt="DGNS World FX Demo" width="700" />
+  <img src="https://i.imgur.com/lHMf3D8.gif" alt="DGNS World FX Demo" width="700" height="700" />
 </p>
 
 ---
