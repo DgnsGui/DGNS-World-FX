@@ -43,9 +43,7 @@ Before you begin, make sure you have the following installed:
    git lfs install
 Clone the Repository:
 
-bash
-Copier
-Modifier
+```bash
 git clone https://github.com/DGNSGui/DGNS-World-FX-Spectacles-Lens.git
 Open the Project:
 
