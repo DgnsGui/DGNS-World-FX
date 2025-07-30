@@ -102,4 +102,4 @@ Open a Pull Request on GitHub.
 This project is licensed under the MIT License.
 See the LICENSE file for details.
 
-<p align="center"> Developed with ❤️ by <strong>GuillaumeDGNS</strong> – for the next generation of Spectacles. </p> ```
+<p align="center"> Developed with ❤️ by <strong>GuillaumeDGNS</strong> – </p> ```
