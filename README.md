@@ -2,7 +2,7 @@
 
 DGNS World FX - A Lens for Spectacles
 A powerful Lens for Spectacles (2021) that projects customizable GLSL shaders onto the real-world environment, complete with real-time controls and an integrated music player.
-![Demo](https://s14.gifyu.com/images/bN2EJ.gif)
+![Demo]([https://s14.gifyu.com/images/bN2EJ.gif](https://i.imgur.com/lHMf3D8.gif))
 
 
 🚀 Features
