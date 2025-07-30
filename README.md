@@ -83,22 +83,19 @@ Fork the repository.
 
 Create a feature branch:
 
-bash
-Copier
-Modifier
+```bash
 git checkout -b feature/MyNewFeature
+```
 Commit your changes:
 
-bash
-Copier
-Modifier
+```bash
 git commit -m "Add MyNewFeature"
+```
 Push the branch:
 
-bash
-Copier
-Modifier
+```bash
 git push origin feature/MyNewFeature
+```
 Open a Pull Request on GitHub.
 ---
 📄 License
