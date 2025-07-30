@@ -6,7 +6,7 @@
 <h1 align="center">DGNS World FX - A Lens for Spectacles</h1>
 
 <p align="center">
-  <em>A powerful AR Lens for Spectacles (2021) that projects customizable GLSL shaders onto the real-world environment, with real-time controls and an integrated music player.</em>
+  <em>A powerful AR Lens for Spectacles24 that projects customizable GLSL shaders onto the real-world environment, with real-time controls and an integrated music player.</em>
 </p>
 
 <p align="center">
