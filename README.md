@@ -59,12 +59,19 @@ Deploy to Spectacles:
 📂 Codebase Overview
 File	Description
 PageManager.ts	Manages navigation between UI pages.
+
 WorldEffectsManager2.ts	Activates/deactivates shader effects, ensuring only one runs at a time.
+
 SimpleMusicPlayer.ts	Controls audio playback and UI updates for the music player.
+
 Control Surfaces 2.ts	Toggles shader surfaces (floor, walls, ceiling).
+
 AdvancedShaderController.js	Links 3D object transform to shader parameters dynamically.
+
 ResetButton.js	Resets object position to its initial state.
+
 WelcomePrefab.js	Handles the welcome screen and changelog display.
+
 
 🤝 Contribution Guidelines
 Contributions are welcome! To contribute:
