@@ -55,6 +55,7 @@ Open the file DGNS World FX V2 Backup 2.lsproj with Lens Studio.
 
 Deploy to Spectacles:
 
+---
 
 📂 Codebase Overview
 File	Description
@@ -72,6 +73,7 @@ ResetButton.js	Resets object position to its initial state.
 
 WelcomePrefab.js	Handles the welcome screen and changelog display.
 
+---
 
 🤝 Contribution Guidelines
 Contributions are welcome! To contribute:
