@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/lHMf3D8.gif" alt="DGNS World FX Demo" width="700" height="700" />
+  <img src="[https://i.imgur.com/lHMf3D8.gif](https://i.imgur.com/Nw4G6sP.gif)" alt="DGNS World FX Demo" width="700" height="700" />
 </p>
 
 ---
@@ -99,7 +99,7 @@ Copier
 Modifier
 git push origin feature/MyNewFeature
 Open a Pull Request on GitHub.
-
+---
 📄 License
 This project is licensed under the MIT License.
 See the LICENSE file for details.
